@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>DELIVERIES</title>
+<style>
+
+h1, p {
+padding-left: 8px;
+}
+span {
+font-size:14px;
+padding: 4px;
+border: outset red;
+margin-left: 725px;
+margin-right: 10px;
+margin-top: -65px;
+border-width: 3px;
+}
+div {
+margin-right: 300px;
+border-radius: 18px;
+}
+
+p {
+color: black;
+font-size: 18px;
+}
+
+/*for green #59C036 red #E3242B */
+.main {
+border-radius: 10px;
+background-color:#E3242B;
+text-align:center;
+margin-right: 250px;
+margin-left: 250px;
+box-shadow: 10px 10px 50px 10px green; 
+border: dashed green;
+}
+
+}
+hr {
+width:50%;
+margin-left:20;
+
+}
+
+</style>
+</head>
+
+<body style= background-color:#ede1d6 >
+<h2>Last Update: 14/02 </h2> 
+<h4>7:30 <span style="float:right;"> &#8226 NOSECONE (MG) RECEIVED? PAINT SHOP !<br><hr>
+                                     &#8226 "TOW HOOK COVER" ? PAINT SHOP !</span> </h4>
+
+
+
+<h1 style= text-align:center> &darr; Waiting for Deliveries &darr;</h1>
+
+
+<HR><HR>
+<br>  
+<div class="main">
+<h1>! Parts Req: 136 297 !</h1>
+<p>Follow Jobs / Production Board</p>
+</div>
+<br>
+<hr>
+
+
+<div style=" background-color: #009dae" >
+          <h1>PARTS FOR JOB 136 330 </h1>
+ <p><b>Tip:</b> The car (HIACE det. inspect) Franco is working on.</p> 
+ </div>
+  
+<hr>
+
+<div style=background-color:lightgreen>
+           <h1>PARTS FOR JOB 070 &#10004</h1>
+<p><b>Tip:</b> The car (volvo) Erwin is working on.</p></div>
+
+
+<hr>
+
+<div style= background-color:orange>
+            <h1>PARTS FOR JOB 956 &#10004</h1>
+<p><b>Tip:</b> The car (HR-V) we received.</p></div>
+
+
+
+
+
+<hr><hr ><br>
+
+
+
+</body>
+</html>
